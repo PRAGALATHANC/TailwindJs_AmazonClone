@@ -11,11 +11,10 @@
 
 ## Resources
 
-- Youtube Video : https://youtu.be/_IBlyR5mRzA
+
 - Demo Website :  https://next-tailwind-amazona.vercel.app
 - Source Code   :  https://github.com/basir/next-tailwind-amazona
-- Full Course: [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
-
+- 
 ## What you will learn
 
 - NextJS basics like setting up project, navigating between pages and data fetching
